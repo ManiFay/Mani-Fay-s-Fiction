@@ -72,7 +72,7 @@ body {
   display: flex;
   align-items: space-between;
   justify-content: center;
-  max-width: 30vw;
+  max-width: 50vw;
   position: absolute;
   left: 10;
   top: 30;
@@ -89,8 +89,10 @@ body {
 
  .links {
   background-color:yellow;
+  column-gap: 10px;
   display: flex;
   height:12vh;
+  width: auto;
   font-size: 20px;
  }
 
@@ -102,6 +104,7 @@ body {
 
  nav ul {
   list-style-type: none;
+  overflow: hidden;
  }
 
 
