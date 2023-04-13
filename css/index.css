@@ -33,6 +33,7 @@ body {
  .img {
     display: flex;
     justify-content: center;
+    align
     height: 53vh;
     max-height: 53vh;
     max-width: 215px;
