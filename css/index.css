@@ -81,6 +81,7 @@ body {
 
  .logo {
   background-color: blue;
+  margin: 0;
   display: flex;
   height: 12vh;
  }
