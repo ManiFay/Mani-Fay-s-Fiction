@@ -80,7 +80,6 @@ p {
 .logo {
  display: flex;
  height: 12vh;
- width: auto;
  background-color: yellow;
 }
 
