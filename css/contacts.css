@@ -57,10 +57,9 @@ body {
   display: flex;
   align-items: space-between;
   position: absolute;
-  top: 0px;
-  margin-top: 37px;
-  margin-left: 40px;
-  margin-right: 40px;
+  top: 37px;
+  left: 40px;
+  right: 40px;
   height: 12vh;
   width: 93.8%;
   background-color: #ffdf80;
