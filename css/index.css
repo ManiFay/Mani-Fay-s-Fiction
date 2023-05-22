@@ -72,14 +72,13 @@ p {
  margin-right: 40px;
  height: 12vh;
  width: 93.8%;
- background-color: blue;
+ background-color: #ffdf80;
 }
 
 .logo {
  display: flex;
  height: 12vh;
  width: 12vh;
- background-color: yellow;
 }
 
 .links {
