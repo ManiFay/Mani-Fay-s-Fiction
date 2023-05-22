@@ -1,11 +1,9 @@
 /*This is a comment in css :D */
 
 @media screen and (max-width: 600px) {
-    .col {
-       width: 100%;
-    }
+    
  }
- 
+
 body {
     height: 100vh;
     width:100vw;
