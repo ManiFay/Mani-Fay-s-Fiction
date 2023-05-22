@@ -65,8 +65,7 @@ p {
 .navbar {
  display: flex;
  align-items: space-between;
- align-items: center;
- justify-content: center;
+ justify-content: left;
  position: absolute;
  margin-top: 25px;
  margin-left: 40px;
@@ -79,6 +78,7 @@ p {
 .logo {
  display: flex;
  height: 12vh;
+ width: 12vh;
  background-color: yellow;
 }
 
@@ -89,6 +89,7 @@ p {
  height:12vh;
  font-size: 20px;
  column-gap: 10vw;
+ margin-right: 10vw;
 }
 
 nav a {
