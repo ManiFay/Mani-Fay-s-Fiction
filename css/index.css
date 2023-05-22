@@ -77,6 +77,7 @@ p {
 
 .logo {
  display: flex;
+ flex: 5;
  height: 12vh;
  width: 12vh;
 }
@@ -87,8 +88,7 @@ p {
  display: flex;
  height:12vh;
  font-size: 20px;
- column-gap: 10vw;
- margin-right: 10vw;
+ flex: 5;
 }
 
 nav a {
