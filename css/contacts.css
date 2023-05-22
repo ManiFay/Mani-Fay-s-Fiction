@@ -57,6 +57,7 @@ body {
   display: flex;
   align-items: space-between;
   position: absolute;
+  top: 0px;
   margin-top: 37px;
   margin-left: 40px;
   margin-right: 40px;
@@ -90,3 +91,4 @@ body {
  nav ul {
   list-style-type: none;
  }
+
