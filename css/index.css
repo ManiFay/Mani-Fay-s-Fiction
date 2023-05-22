@@ -65,7 +65,6 @@ p {
 .navbar {
  display: flex;
  align-items: space-between;
- justify-content: left;
  position: absolute;
  margin-top: 37px;
  margin-left: 40px;
@@ -77,6 +76,7 @@ p {
 
 .logo {
  display: flex;
+ justify-content: left;
  flex: 5;
  height: 12vh;
  width: 12vh;
@@ -84,6 +84,7 @@ p {
 
 .links {
  align-items: center;
+ justify-content: center;
  text-align: center;
  display: flex;
  height:12vh;
