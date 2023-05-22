@@ -12,7 +12,7 @@ body {
 .main {
  width: 93.8%;
  display: flex;
- margin: 120px 40px 50px 40px;
+ margin: 160px 40px 50px 40px;
  column-gap: 40px;
 }
 
@@ -67,7 +67,7 @@ p {
  align-items: space-between;
  justify-content: left;
  position: absolute;
- margin-top: 25px;
+ margin-top: 37px;
  margin-left: 40px;
  margin-right: 40px;
  height: 12vh;
