@@ -12,7 +12,7 @@
 
  .main {
   display: flex;
-  width: 93.8%;
+  width: 98.4%;
   justify-content: center;
   flex-direction: column;
   overflow: hidden;
@@ -22,6 +22,9 @@
 
  .image {
     display: flex;
+    position: center;
+    margin-left: 38%;
+    margin-right: 30%;
     height: 53vh;
     max-height: 300px;
     max-width: 300px;
