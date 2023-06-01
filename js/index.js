@@ -1,4 +1,6 @@
-document.getElementById("").onclick = function() {myFunction()};
 
-function myFunction() {
-  document.getElementById("demo").innerHTML = "YOU CLICKED ME!";
+
+document.getElementById("contacts").onclick = function() {description()};
+
+function description() {
+  document.getElementById("contacts").innerHTML = "Contacts";
