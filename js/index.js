@@ -1,16 +1,9 @@
-const contacts = document.getElementById('contacts')
+const credit = document.getElementById('')
 
-var a = document.createElement('a');
-      var linkText = document.createTextNode("Contacts/Socials");
-      a.appendChild(linkText);
-      a.title = "Contacts/Socials";
-      a.href = "contacts.html";
-      document.body.appendChild(a);
-
-contacts.addEventListener('mouseover', () => {
-    contacts.innerHTML = "Contacts/Socials"
+credit.addEventListener('mouseover', () => {
+    contacts.innerHTML = "Credit for this art goes to my brother."
 })
 
-contacts.addEventListener('mouseout', () => {
-    contacts.innerHTML = a
+credit.addEventListener('mouseout', () => {
+    contacts.innerHTML = "Click here to see the crdits for the artist!"
 })
