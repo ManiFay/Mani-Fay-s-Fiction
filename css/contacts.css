@@ -23,7 +23,8 @@
 
  .image {
     display: flex;
-    justify-content: center;
+    margin-left: 37%;
+    margin-right: 30%;
     height: 53vh;
     max-height: 300px;
     max-width: 300px;
@@ -49,14 +50,6 @@ h1 {
    display: flex;
    justify-content: center;
 }
-
- .image {
-    display: flex;
-    height: 30%;
-    width: auto;
-    justify-content: center;
-    margin: 10px;
- }
 
  .navbar {
   display: flex;
