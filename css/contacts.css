@@ -22,7 +22,6 @@
  }
 
  .img {
-    display: flex;
     object-position: center;
     height: 53vh;
     max-height: 300px;
