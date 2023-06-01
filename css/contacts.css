@@ -24,7 +24,6 @@
  .img {
     display: flex;
     object-position: center;
-    align-items: center;
     height: 53vh;
     max-height: 300px;
     max-width: 300px;
