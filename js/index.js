@@ -1,4 +1,2 @@
-document.getElementById("contacts").onmouseover = function() {description()};
+const contacts = document.getElementById('contacts')
 
-function description() {
-  document.getElementById("contacts").innerHTML = "Contacts/Socials";
