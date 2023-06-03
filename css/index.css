@@ -87,7 +87,7 @@ h1 {
  flex: 5;
  height: 12vh;
  width: 14vw;
- font-size: 
+ font-size: 1vw;
 }
 
 .links {
@@ -96,7 +96,7 @@ h1 {
  text-align: center;
  display: flex;
  height:12vh;
- font-size: 20px;
+ font-size: 1.4vw;
  flex: 5;
 }
 
