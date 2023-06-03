@@ -17,6 +17,17 @@ body {
     column-gap: 40px;
 }
 
+.content {
+    background-color: #ffdf80;
+    overflow: scroll;
+    overflow-x: hidden;
+    flex: 2;
+    width: auto;
+    padding: 20px;
+    border-color: #c9af28;
+    text-align: left;
+ }
+
 .navbar {
     display: flex;
     align-items: space-between;
