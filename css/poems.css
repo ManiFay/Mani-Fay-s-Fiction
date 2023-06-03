@@ -17,12 +17,16 @@ body {
     column-gap: 40px;
 }
 
-.scrollx{
-    display: flex;
-    background-color: yellow;
-    width: 90%;
+.content {
+    background-color: #ffdf80;
     overflow: scroll;
-}
+    overflow-y: hidden;
+    flex: 2;
+    width: auto;
+    padding: 20px;
+    border-color: #c9af28;
+    text-align: left;
+ }
 
 .content {
     background-color: #ffdf80;
