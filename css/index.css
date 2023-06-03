@@ -83,7 +83,7 @@ h1 {
 
 .logo {
  display: flex;
- float: center;
+ float: left;
  flex: 5;
  height: 12vh;
  width: 14vw;
