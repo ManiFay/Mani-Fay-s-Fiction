@@ -79,6 +79,8 @@ h1 {
   .title{
    display: flex;
    align-items: center;
+   text-align: justify;
+   text-justify: inter-character;
 }
 
  .links {
