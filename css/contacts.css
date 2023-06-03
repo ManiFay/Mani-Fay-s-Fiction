@@ -76,11 +76,9 @@ h1 {
    text-color: #221C31;
   }
 
-  .title{
+.title{
    display: flex;
    align-items: center;
-   text-align: justify;
-   text-justify: inter-character;
 }
 
  .links {
