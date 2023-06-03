@@ -1,7 +1,7 @@
 const credit = document.getElementById('credit')
 
 credit.addEventListener('mouseover', () => {
-    credit.innerHTML = "Credit for this art goes to my brother. I, Mani Fay, wrote the article."
+    credit.innerHTML = "Credit for this art goes to my brother. I, Mani Fay, wrote the article and made the logo for Mani Fay's Fiction."
 })
 
 credit.addEventListener('mouseout', () => {
