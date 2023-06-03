@@ -17,6 +17,10 @@ body {
     column-gap: 40px;
 }
 
+.poem{
+    overflow: scroll;
+}
+
 .content {
     background-color: #ffdf80;
     overflow: scroll;
@@ -40,7 +44,7 @@ body {
     width: 92.5%;
     background-color: #ffdf80;
  }
- 
+
  .logo {
     display: flex;
     float: left;
