@@ -7,7 +7,15 @@ body {
     margin: 0;
  }
 
-
+ .main {
+    display: flex;
+    width: 98.4%;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 160px 40px 50px 40px;
+    column-gap: 40px;
+}
 
 .navbar {
     display: flex;
