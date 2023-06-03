@@ -58,11 +58,6 @@ h1 {
    text-align: center;
 }
 
-small {
-   display: flex;
-   text-align: center;
-}
-
 .image {
    display: flex;
    height: 30%;
