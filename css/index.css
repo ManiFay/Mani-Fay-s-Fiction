@@ -69,28 +69,28 @@ h1 {
 }
 
 .navbar {
- display: flex;
- align-items: space-between;
- position: absolute;
- margin-top: 37px;
- margin-left: 40px;
- margin-right: 40px;
- padding: 10px;
- height: 12vh;
- width: 92.5%;
- background-color: #ffdf80;
+   display: flex;
+   align-items: space-between;
+   position: absolute;
+   margin-top: 37px;
+   margin-left: 40px;
+   margin-right: 40px;
+   padding: 10px;
+   height: 12vh;
+   width: 92.5%;
+   background-color: #ffdf80;
 }
 
 .logo {
- display: flex;
- float: left;
- flex: 5;
- height: 12vh;
- width: 14vw;
- font-size: 1vw;
- text-align: center;
- text-justify: center;
- text-color: #221C31;
+   display: flex;
+   float: left;
+   flex: 5;
+   height: 12vh;
+   width: 14vw;
+   font-size: 1vw;
+   text-align: center;
+   text-justify: center;
+   text-color: #221C31;
 }
 
 .title{
@@ -99,13 +99,13 @@ h1 {
 }
 
 .links {
- align-items: center;
- justify-content: center;
- text-align: center;
- display: flex;
- height:12vh;
- font-size: 1.4vw;
- flex: 5;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   display: flex;
+   height:12vh;
+   font-size: 20px;
+   flex: 5;
 }
 
 nav a {
