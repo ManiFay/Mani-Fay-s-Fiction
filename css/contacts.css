@@ -64,12 +64,13 @@ h1 {
  }
 
  .logo {
-  display: flex;
-  justify-content: left;
-  flex: 5;
-  height: 12vh;
-  width: 12vh;
- }
+   display: flex;
+   justify-content: left;
+   flex: 5;
+   height: 12vh;
+   width: 14vw;
+   font-size: 1vw;
+  }
 
  .links {
   align-items: center;
