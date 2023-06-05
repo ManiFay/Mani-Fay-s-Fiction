@@ -86,3 +86,28 @@ body {
  nav ul {
   list-style-type: none;
  }
+
+ /* Code for changing scroll bar from W3S Schools scroll bar tutorial (edited color choices) */
+/* width */
+::-webkit-scrollbar {
+   width: 20px;
+ }
+
+ /* Track */
+ ::-webkit-scrollbar-track {
+   box-shadow: inset 0 0 5px #d19a02;
+   border-radius: 10px;
+ }
+
+ /* Handle */
+ ::-webkit-scrollbar-thumb {
+   background: #fcd45b;
+   border-radius: 10px;
+   border: solid 3px;
+   border-color: #fcc732;
+ }
+
+ /* Handle on hover */
+ ::-webkit-scrollbar-thumb:hover {
+   background: #fcc732;
+ }
