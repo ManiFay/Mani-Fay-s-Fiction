@@ -47,6 +47,11 @@ body {
    flex-direction: column;
    margin-right: 10vh;
  }
+ .shirt {
+   display: flex;
+   hieght: 225vh;
+   width: auto;
+ }
 
  .navbar {
     display: flex;
