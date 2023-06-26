@@ -53,6 +53,19 @@ body {
    width: auto;
  }
 
+ .image {
+   display: flex;
+   position: center;
+   margin-left: 36%;
+   margin-right: 30%;
+   height: 53vh;
+   max-height: 300px;
+   max-width: 300px;
+   border: 4vh solid;
+   padding: 10px;
+   border-image: url(https://cdn.pixabay.com/photo/2020/06/06/20/48/frame-5268143_1280.png) 40 round;
+}
+
  .navbar {
     display: flex;
     align-items: space-between;
