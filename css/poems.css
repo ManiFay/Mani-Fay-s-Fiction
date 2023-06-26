@@ -42,6 +42,11 @@ body {
  .merch {
    display: flex;
  }
+ .column {
+   display: flex;
+   flex-direction: column;
+   margin-right: 10vh;
+ }
 
  .navbar {
     display: flex;
