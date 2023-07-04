@@ -131,7 +131,21 @@ h1 {
     background: #fcc732;
   }
 
-  @media screen and (max-width:700px){
+  @media screen and (max-width:750px){
+   .navbar {
+      display: flex;
+      align-items: space-between;
+      position: absolute;
+      top: 37px;
+      left: 40px;
+      right: 40px;
+      padding: 10px;
+      height: 12vh;
+      width: 85%;
+      background-color: #ffdf80;
+      margin-right: 7.5%;
+     }
+
    .links {
       align-items: center;
       justify-content: center;
