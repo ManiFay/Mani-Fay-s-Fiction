@@ -93,7 +93,7 @@ h1 {
   text-align: center;
   display: flex;
   height:12vh;
-  font-size: 20;
+  font-size: 25px;
   flex: 5;
  }
 
@@ -130,6 +130,14 @@ h1 {
     background: #fcc732;
   }
 
-  @media screen and (max-width:412px){
-
+  @media screen and (max-width:700px){
+   .links {
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      display: flex;
+      height:12vh;
+      font-size: 3vw;
+      flex: 5;
+     }
  }
