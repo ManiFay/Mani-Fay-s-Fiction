@@ -23,7 +23,7 @@
  .image {
     display: flex;
     position: center;
-    margin-left: 35%;
+    margin-left: 36%;
     height: 53vh;
     max-height: 300px;
     max-width: 300px;
@@ -145,6 +145,19 @@ h1 {
       margin-right: 7.5%;
      }
 
+     .logo {
+      display: flex;
+      justify-content: left;
+      flex: 5;
+      height: 10vh;
+      width: 12vw;
+      margin-top: 1vw;
+      font-size: 1vw;
+      text-align: center;
+      text-justify: center;
+      text-color: #221C31;
+     }
+
    .links {
       align-items: center;
       justify-content: center;
@@ -167,6 +180,7 @@ h1 {
 
      .image {
       display: flex;
+      justify-content: center;
       position: center;
       margin-left: 30%;
       margin-right: 30%;
