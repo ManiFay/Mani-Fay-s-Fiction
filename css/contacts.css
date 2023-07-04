@@ -169,13 +169,13 @@ h1 {
      .image {
       display: flex;
       position: center;
-      margin-left: 36%;
+      margin-left: 30%;
       margin-right: 30%;
       height: 53vh;
-      max-height: 150px;
-      max-width: 150px;
+      max-height: 140px;
+      max-width: 140px;
       border: 4vw solid;
       padding: 10px;
-      border-image: url(https://cdn.pixabay.com/photo/2020/06/06/20/48/frame-5268143_1280.png) 60 round;
+      border-image: url(https://cdn.pixabay.com/photo/2020/06/06/20/48/frame-5268143_1280.png) 40 round;
    }
  }
