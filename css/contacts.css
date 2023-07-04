@@ -93,7 +93,7 @@ h1 {
   text-align: center;
   display: flex;
   height:12vh;
-  font-size: 20px;
+  font-size: 20;
   flex: 5;
  }
 
@@ -130,49 +130,6 @@ h1 {
     background: #fcc732;
   }
 
-  @media screen and (max-width:412px) {
-
-   .navbar {
-    display: flex;
-    align-items: space-between;
-    position: absolute;
-    top: 37px;
-    left: 40px;
-    right: 40px;
-    padding: 10px;
-    height: 12vh;
-    width: 92.5%;
-    background-color: #ffdf80;
-   }
-
-   .logo {
-     display: flex;
-     justify-content: left;
-     flex: 5;
-     height: 12vh;
-     width: 14vw;
-     font-size: 1vw;
-     text-align: center;
-     text-justify: center;
-     text-color: #221C31;
-    }
-
-   .links {
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    display: flex;
-    height:12vh;
-    font-size: 20px;
-    flex: 5;
-   }
-
-   nav a {
-    text-decoration: none;
-   }
-
-   nav ul {
-    list-style-type: none;
-   }
+  @media screen and (max-width:412px){
 
  }
