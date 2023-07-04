@@ -165,4 +165,17 @@ h1 {
       margin: 160px 40px 50px 40px;
       column-gap: 40px;
      }
+
+     .image {
+      display: flex;
+      position: center;
+      margin-left: 36%;
+      margin-right: 30%;
+      height: 53vh;
+      max-height: 150px;
+      max-width: 150px;
+      border: 4vw solid;
+      padding: 10px;
+      border-image: url(https://cdn.pixabay.com/photo/2020/06/06/20/48/frame-5268143_1280.png) 60 round;
+   }
  }
